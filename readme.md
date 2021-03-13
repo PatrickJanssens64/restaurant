@@ -8,10 +8,11 @@ Gebruik van float ipv. flex.
 jQuery wordt gebruikt om details te tonen of te verbergen door te klikken.
 
 Inhoud:
--index.html
--js
--css
--assets
+
+- index.html
+- js
+- css
+- assets
 
 Verbeteringen:
 
